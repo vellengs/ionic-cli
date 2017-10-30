@@ -179,6 +179,13 @@ export const STARTER_TEMPLATES: StarterTemplate[] = [
     archive: 'https://github.com/ionic-team/ionic-starter-super/archive/<BRANCH_NAME>.tar.gz'
   },
   {
+    name: 'mobile',
+    type: 'ionic-angular',
+    description: 'A custom full features for Ionic development.',
+    url: 'https://github.com/vellengs/ionic-starter-super',
+    archive: 'https://github.com/vellengs/ionic-starter-super/archive/<BRANCH_NAME>.tar.gz'
+  },
+  {
     name: 'conference',
     type: 'ionic-angular',
     description: 'A project that demonstrates a realworld application',
